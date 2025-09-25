@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>A4A403DE7DC8BE07B626690F781D5577</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Баллада о рыцаре слова и о его невесте</title>
+			<author>Евгений Туголуков (Korwin) и Дженни</author>
+			<language>ru</language>
+			<firstpublished>2011-07-26</firstpublished>
+			<genre>Поэзия</genre>
+			<group>URQ</group>
+			<description>От Korwin'a, (барда крутого),<br/>И Дженни, живущих вместе:<br/>БАЛЛАДА О РЫЦАРЕ СЛОВА<br/>И О ЕГО НЕВЕСТЕ<br/>Бог отвернулся от нас<br/>Жаба поет соловьем<br/>Запомните доблесть мою.<br/>Интерактивная баллада</description>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#ballad_of_knight</url>
+			<authoremail>tightbow@yandex.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
